@@ -1,0 +1,16 @@
+[18-Sep-2021 02:36:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 26
+[18-Sep-2021 02:36:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 31
+[18-Sep-2021 02:36:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 45
+[18-Sep-2021 02:36:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 64
+[18-Sep-2021 02:38:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 26
+[18-Sep-2021 02:38:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 31
+[18-Sep-2021 02:38:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 45
+[18-Sep-2021 02:38:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 64
+[18-Sep-2021 02:46:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 26
+[18-Sep-2021 02:46:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 31
+[18-Sep-2021 02:46:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 45
+[18-Sep-2021 02:46:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 64
+[18-Sep-2021 02:46:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 26
+[18-Sep-2021 02:46:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 31
+[18-Sep-2021 02:46:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 45
+[18-Sep-2021 02:46:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escuela3/admin.escuelaconduccion.org/includes/header.php on line 64
